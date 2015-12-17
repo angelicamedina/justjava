@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Juste Java</string>
+
+    <string name="action_settings">Parametres</string>
+    <string name="name">Nom</string>
+    <string name="whipped_cream">creme fouette</string>
+    <string name="chocolate">Le Chocolat</string>
+    <string name="cinnamon">Cannelle</string>
+    <string name="marshmallow">Guimauves</string>
+    <string name="quantity">Quantite</string>
+    <string name="toppings">Garnitures</string>
+    <string name="order">Commande</string>
+</resources>
